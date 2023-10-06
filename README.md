@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [githublink](githublink)
+- 👨‍💻 All of my projects are available at [[githublink](https://github.com/gxxny)]
 
 - 📝 I regularly write articles on [www.linkedin.com/in/genevieve-iyinbor-70a723292](www.linkedin.com/in/genevieve-iyinbor-70a723292)
 
